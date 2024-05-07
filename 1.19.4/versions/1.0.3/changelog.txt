@@ -1,0 +1,129 @@
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+1. 🐛 Solved the problem of screenshots button animation
+2. 📦 **Package Updates:**
+   - **1.18.2:**
+     - Mod Updates:
+```
+- Architectury API
+- Drippy Loading Screen
+- Dynamic FPS
+- Entity Texture Features
+- Fabric Language Kotlin
+- FancyMenu
+- ModernFix
+- Not Enough Animations
+- PaperDoll
+- Raised
+- Resourcify
+- Wavey Capes
+- Faithful 32x
+- Pixlli 128x
+- rotrBLOCKS 128/256x
+- BSL Shaders
+- Solas Shader
+```
+
+   - **1.19.4:**
+     - Mod Updates:
+```
+- Architectury API
+- BSL Shaders
+- Dynamic FPS
+- Entity Model Features [CEM]
+- Entity Texture Features
+- Fabric Language Kotlin
+- Faithful 32x
+- ImmediatelyFast
+- Not Enough Animations
+- PaperDoll
+- Pixlli 128x
+- Raised
+- Resourcify
+- Solas Shader
+- Wavey Capes
+- rotrBLOCKS 128/256x
+```
+       
+   - **1.20.1:**
+     - Mod Updates:
+```
+- Architecture API
+- Better Statistics Screen (Fabric/Forge)
+- BSL Shaders
+- Drippy Loading Screen
+- Dynamic FPS
+- Entity Model Features [CEM]
+- Entity Texture Features
+- Fabric API
+- Fabric Language Kotlin
+- FancyMenu
+- Faithful 32x
+- ImmediatelyFast
+- Indium
+- Iris Shaders
+- Konkrete
+- ModernFix
+- More Culling
+- Not Enough Animations
+- PaperDoll
+- Pixlli 128x
+- Raised
+- Reese's Sodium Options
+- Resourcify
+- rotrBLOCKS 128/256x
+- Sodium
+- Sodium Extra
+- Solas Shader
+- Wavey Capes
+- YetAnotherConfigLib
+```
+
+   - **1.20.2:**
+     - Mod Updates:
+```
+- Architectury API
+- Better Statistics Screen (Fabric/Forge)
+- Controlling
+- Dynamic FPS
+- Entity Model Features [CEM]
+- Entity Texture Features
+- Fabric API
+- Fabric Language Kotlin
+- FancyMenu
+- ImmediatelyFast
+- Indium
+- More Culling
+- Not Enough Animations
+- PaperDoll
+- Raised
+- Resourcify
+- Wavey Capes
+- Faithful 32x
+- Pixlli 128x
+- rotrBLOCKS 128/256x
+- BSL Shaders
+- Solas Shader
+```
+
+3. ⚡ Removed the mod Auudio and Audio Extension for FancyMenu v2 and all their files for 1.18.2 and 1.20.1 and add Melody mod
+4. 🐛 Resolved the x parameter of the screenshot button in the pause menu
+5. ✨ Migration of all menus from 1.18.2 and 1.20.1 to FancyMenu 3.1.2
+6. 🔥 Removed unused configurations of Bobby mod.
+7. 🔥 Removed the Remove Reloading Screen mod and all its files
+8. ✨ v1.0.3
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* ✨ v1.0.3 by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/323
+
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.2...v1.0.3
