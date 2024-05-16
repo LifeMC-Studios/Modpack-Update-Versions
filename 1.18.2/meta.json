@@ -13,7 +13,7 @@
     },
     {
       "id": "1.0.1+1.18.2",
-      "releasedAt": 1709143700,
+      "releasedAt": 1709074800000,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.1+1.18.2"
@@ -22,7 +22,7 @@
     },
     {
       "id": "1.0.2+1.18.2",
-      "releasedAt": 1709487830,
+      "releasedAt": 1709420400000,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.2+1.18.2"
@@ -31,7 +31,7 @@
     },
     {
       "id": "1.0.3+1.18.2",
-      "releasedAt": 1711046313,
+      "releasedAt": 1710975600000,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.3+1.18.2"
@@ -40,7 +40,7 @@
     },
     {
       "id": "1.0.4+1.18.2",
-      "releasedAt": 1711817990,
+      "releasedAt": 1711753200000,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.4+1.18.2"
@@ -49,7 +49,7 @@
     },
     {
       "id": "1.0.5+1.18.2",
-      "releasedAt": 1712092283,
+      "releasedAt": 1712008800000,
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.5+1.18.2"
