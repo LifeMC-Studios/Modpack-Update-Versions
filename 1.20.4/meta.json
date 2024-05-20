@@ -3,42 +3,6 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0.0+1.20.4",
-      "releasedAt": 1694469600000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.0+1.20.4"
-        }
-      }
-    },
-    {
-      "id": "1.0.1+1.20.4",
-      "releasedAt": 1709074800000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.1+1.20.4"
-        }
-      }
-    },
-    {
-      "id": "1.0.2+1.20.4",
-      "releasedAt": 1709420400000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.2+1.20.4"
-        }
-      }
-    },
-    {
-      "id": "1.0.3+1.20.4",
-      "releasedAt": 1710975600000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/lifemc/version/1.0.3+1.20.4"
-        }
-      }
-    },
-    {
       "id": "1.0.4+1.20.4",
       "releasedAt": 1711753200000,
       "promotions": {
