@@ -1,0 +1,175 @@
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+1. feat: ✨ Beginning development v1.0.8
+2. feat: 🔥 Removed IMBlocker mod causes problems on Linux
+3. feat: ⚡ CraftPresence mod added
+4. feat: 🔥 Removed Simple Discord RPC mod
+5. feat: 🔥 Removed CraterLib mod for 1.20.4/1.20.6
+6. feat: 🎨 Migration of configs from Simple Discord RPC to CraftPresence
+7. feat: 📦 **Package Updates:**
+   - **1.18.2:**
+     - Mod Updates:
+```
+- 3D Skin Layers
+- CraftPresence
+- Dynamic FPS
+- e4mc
+- ModernFix
+- Modpack Update Checker
+- Not Enough Animations
+- PaperDoll
+- Resourcify
+- Wavey Capes
+- Reimagined GUI (Dark)
+- Reimagined GUI (Light)
+- skipped ShulkerBoxTooltip 3.4.4
+```
+
+   - **1.19.4:**
+     - Mod Updates:
+```
+- 3D Skin Layers
+- CraftPresence
+- e4mc
+- Modpack Update Checker
+- Not Enough Animations
+- PaperDoll
+- Resourcify
+- Wavey Capes
+- Reimagined GUI (Dark)
+- Reimagined GUI (Light)
+```
+
+   - **1.20.4:**
+     - Mod Updates:
+```
+- 3D Skin Layers
+- Animatica
+- Controlify
+- CraftPresence
+- Cubes Without Borders
+- Dynamic FPS
+- e4mc
+- Enhanced Block Entities
+- Entity Model Features [CEM]
+- EntityCulling
+- Entity Texture Features
+- Fabric API
+- ImmediatelyFast
+- Indium
+- Iris Shaders
+- Mod Menu
+- Modpack Update Checker
+- Not Enough Animations 
+- PaperDoll
+- Polytone
+- Resourcify
+- Wavey Capes
+- YetAnotherConfigLib
+- Zoomify
+- Reimagined GUI (Dark)
+- Reimagined GUI (Light)
+```
+
+   - **1.20.6:**
+     - Mod Updates:
+```
+- 3D Skin Layers
+- Animatica
+- Architectury API
+- Better Statistics Screen (Fabric/Forge)
+- Chat Patches
+- Controlify
+- CraftPresence
+- Cubes Without Borders
+- Dynamic FPS
+- e4mc
+- Entity Model Features [CEM]
+- EntityCulling
+- Entity Texture Features
+- Fabric API
+- ImmediatelyFast
+- Indium
+- Iris Shaders
+- Lithium
+- ModernFix
+- Mod Menu
+- Modpack Update Checker
+- No Chat Reports
+- Not Enough Animations
+- Polytone
+- Resourcify
+- Satin API
+- ShulkerBoxTooltip
+- Sodium Extra
+- Sodium
+- Wavey Capes
+- YetAnotherConfigLib
+- Zoomify
+- Reimagined GUI (Dark)
+- Reimagined GUI (Light)
+```
+
+   - **1.21:**
+     - Mod Updates:
+```
+- Better Statistics Screen (Fabric/Forge)
+- Cubes Without Borders
+- e4mc
+- Fabric API
+- ModernFix
+- More Culling
+- PaperDoll
+- Reese's Sodium Options
+- ShulkerBoxTooltip
+- Symbol Chat
+- TCDCommons API
+- Visuality
+- Translations for LifeMC
+```
+
+8. feat: ✨ Added TCDCommons API mod required by 1.20.6 for Better Statistics Screen mod to work
+9. feat: 🔥 Removed dark and light background from settings menu causes problems
+10. feat: ✨ Achieved Enhanced Block Entities and Raised mods for 1.20.6
+11. feat: ✨ Start of development of v1.0.8+1.21-alpha.1
+12. feat: 🎨 Updated the tag and version of packwiz for v1.0.8+1.21-alpha.1
+13. feat: 🔧 Updated fabric_loader_dependencies.json for v1.0.8+1.21-alpha.1
+14. feat: ✨ Updated Modpack Update Checker for v1.0.8+1.21-alpha.1
+15. feat: 📦 Updated all packages for 1.21
+16. fix: 🐛 Removed Borderless Mining mod from 1.20.4, 1.20.6, 1.21 not removed in the past after it was replaced by Cubes Without Borders mod causing incompatibility issues
+17. feat: 🔥 Removed LazyDFU mod from 1.19.4 to 1.21 no longer needed, will remain only for 1.18.2
+18. feat: 🔧 Changed the data version in the options.txt file of 1.21
+19. feat: 🔧 Change the active resource packs in the options.txt file of 1.21
+20. feat: 🔥 Temporarily removed mods not yet available for 1.21
+
+```
+- AntiGhost
+- Boat Item View
+- Cosmetica
+- FastQuit
+- ThreadTweak
+- Raised
+- Seamless 
+- Screenshot Viewer
+```
+
+21. feat: ✨ Modified options.txt to block menu editing and make it better in case of changes
+22. fix: 🐛 Fixed settings menu bugs for 1.20.6
+23. feat: ✨ Enabled modpack mode in fancymenu for 1.18.2, 1.20.4, 1.20.6, 1.21
+24. fix: 🐛 Fixed settings menu bugs for 1.21
+25. fix: 🐛 Fixed menu paused bugs for 1.21 
+26. fix: 🐛 Minor bug fixes in the CraftPresence config
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+## What's Changed
+* ✨ v1.0.8 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/387
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.7...v1.0.8
