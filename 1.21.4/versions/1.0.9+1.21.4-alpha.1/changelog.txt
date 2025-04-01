@@ -2,239 +2,239 @@
 
 Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
 
-feat: ✨ Start of development v1.0.9
-feat: ✨ Migrated all files to v9 of Modpack Update Checker
-feat: 📦 Updated packages for 1.18.2
-```
-3D Skin Layers
-CraftPresence
-Dynamic FPS
-Drippy Loading Screen
-e4mc
-Fabric Language Kotlin
-FancyMenu
-Modpack Update Checker
-Not Enough Animations
-PaperDoll
-Raised
-Resourcify
-ShulkerBoxTooltip
-UniLib
-Wavey Capes
-Reimagined GUI (Dark)
-Reimagined GUI (Light)
-Translations for LifeMC
-```
-feat: 📦 Updated packages for 1.19.4
-```
-3D Skin Layers
-CIT Resewn
-Cloth Config API
-CraftPresence
-e4mc
-EntityCulling
-Fabric Language Kotlin
-Modpack Update Checker
-Not Enough Animations
-OptiGUI
-PaperDoll
-Raised
-Resourcify
-ShulkerBoxTooltip
-UniLib
-Wavey Capes
-Reimagined GUI (Dark)
-Reimagined GUI (Light)
-Translations for LifeMC
-```
-feat: 📦 Updated packages for 1.20.4
-```
-3D Skin Layers
-Better Statistics Screen (Fabric/Forge)
-Cloth Config API
-Controlify
-CraftPresence
-CIT Resewn
-Cubes Without Borders
-Dynamic FPS
-Drippy Loading Screen
-e4mc
-Entity Model Features [CEM]
-EntityCulling
-Entity Texture Features
-Fabric API
-Fabric Language Kotlin
-ImmediatelyFast
-FancyMenu
-ImmediatelyFast
-Language Reload
-Modpack Update Checker
-Not Enough Animations
-OptiGUI
-PaperDoll
-Raised
-Resourcify
-Seamless
-UniLib
-Wavey Capes
-Reimagined GUI (Dark)
-Reimagined GUI (Light)
-Translations for LifeMC
-YetAnotherConfigLib
-Zoomify
-```
-feat: 📦 Updated packages for 1.20.6
-```
-3D Skin Layers
-Architectury API
-Better Statistics Screen (Fabric/Forge)
-Cloth Config API
-Controlify
-CraftPresence
-Cubes Without Borders
-Drippy Loading Screen
-Dynamic FPS
-e4mc
-Entity Model Features [CEM]
-EntityCulling
-Entity Texture Features
-Fabric API
-Fabric Language Kotlin
-FancyMenu
-Gamma Utils
-ImmediatelyFast
-Language Reload
-Modpack Update Checker
-Not Enough Animations
-OptiGUI
-PaperDoll
-Raised
-Reese's Sodium Options
-Resourcify
-ShulkerBoxTooltip
-TCDCommons API
-UniLib
-Wavey Capes
-Reimagined GUI (Dark)
-Reimagined GUI (Light)
-Translations for LifeMC
-YetAnotherConfigLib
-Zoomify
-```
-feat: 📦 Updated packages for 1.21
-```
-3D Skin Layers
-Architectury API
-Better Statistics Screen (Fabric/Forge)
-Blur (Fabric)
-Chat Patches
-Cloth Config API
-Controlling
-Controlify
-Cubes Without Borders
-CraftPresence
-Dynamic FPS
-Entity Model Features [CEM]
-EntityCulling
-e4mc
-Enhanced Block Entities
-Entity Texture Features
-Fabric API
-Fabric Language Kotlin
-Fabrishot
-FixBookGUI
-Gamma Utils
-ImmediatelyFast
-Indium
-Iris Shaders
-Lithium
-LambDynamicLights
-Language Reload
-MidnightLib
-ModernFix
-Mod Menu
-Modpack Update Checker
-More Culling
-Not Enough Animations
-No Chat Reports
-OptiGUI
-Paginated Advancements & Custom Frames
-PaperDoll
-Polytone
-Puzzle
-Raised
-Reese's Sodium Options
-Resourcify
-Searchables
-ShulkerBoxTooltip
-Sodium Extra
-Sodium
-Symbol Chat
-TCDCommons API
-UniLib
-Very Many Players (Fabric)
-Wavey Capes
-Reimagined GUI (Dark)
-Reimagined GUI (Light)
-YetAnotherConfigLib
-Zoomify
-```
-feat: 🔥 Removed versions 1.20.1 and 1.20.2
-feat: 🔥 Removed old method of updating via lifemc.json from 1.18.2, 1.19.4, 1.20.4
-feat: 📦 Added Raised mod to newly supported version 1.21
-feat: 📦 Reinstated CIT Resewn mod to 1.21
-feat: 📦 Added the UniLib mod required by recent versions of the CraftPresence mod
-feat: ⚡ Added View Bobbing Options mod from 1.19.4 and up
-feat: 🔥 Removed Exordium mod and all its files
-feat: ✨ Re-added mods LambDynamicLights and CIT Resewn to 1.21
-feat: ✨ Re-added Dynamic FPS mod to 1.19.4
-feat: ⚡ Updated the fabric version to 0.16.7
-feat: ✨ Switch 1.20.6 and 1.21 from Beta to Stable
-feat: 🔥 Removed AntiGhost mod
-feat: 🔥 Removed Boat Item View mod
-feat: ✨ Added TCDCommons API mod for 1.20.4
-feat: ✨ Added BetterGrassify mod from 1.19.4 and up with config on FAST
-feat: 🔧 Disabled the FancyMenu welcome screen by default for 1.18.2, 1.20.4, 1.20.6, 1.21
-feat: ⚡ Replaced MidnightControls mod with Controlify for 1.19.4
-feat: 🔧 Enabled quiet mode in the Controlify config for 1.19.4, 1.20.4, 1.20.6, 1.21
-feat: ✨ Starting porting for 1.21.1
-feat: 🔧 Porting version files for 1.21.1
-feat: 📦 Updated packages for 1.21.1
-feat: 🔖 Fabric version upgrade to 0.16.9 for 1.21.1
-feat: ⬆️ Update fabric version in dependencies to 0.16.9 for 1.21.1
-feat: ✨ Updating the version number in the options.txt file for 1.21.1
-feat: ✨ Starting porting for 1.21.3
-feat: 🔧 Porting version files for 1.21.3
-feat: ✨ Updating the version number in the options.txt file for 1.21.3
-feat: ✨ Change Porting from 1.21.3 to 1.21.4 (1.21.3 will be skipped)
-feat: 🔧 Porting of version files from 1.21.3 to 1.21.4 (1.21.3 will be skipped)
-feat: ✨ Update version number in options.txt file from 1.21.3 to 1.21.4 (1.21.3 will be skipped)
-feat: 📦 Updated to v1.0.2 of Translations for LifeMC
-feat: 📦 Updated packages for 1.21.4
-feat: 🔖 Fabric version upgrade to 0.16.10 for 1.21.4
-feat: 🔥 Temporarily removed some mods from 1.21.4
-```
-Animatica
-Blur+
-CIT Resewn
-FabricSkyboxes
-FabricSkyboxes interop
-Satin API
-```
-fix: 🐛 The MC-22882 patch for 1.21, 1.21.1, 1.21.4 is enabled by default in Debugify
-feat: 📦 Re-added the Blur+ mod (v5.0.2, Satin API is no longer required) in 1.21.4
-feat: 🔨 Improved CLI tools
-docs: 📝 Changed the date in the CLI tools
-docs: 📝 Improved .md files
-feat: 🔥 Removed the CLI tool to update languages, no longer required
-```
-Languages are now updated and maintained in a separate repository https://github.com/LifeMC-Studios/Translations-for-LifeMC
-```
-fix: 🐛 Fixed command and message issues for CLI Tools
-fix: 🐛 Fixed resource pack issues in options.txt file in 1.21.4
-fix: 🐛 Fixed the issue with the selection number in the CLI Tools
-fix: 🐛 Changed tag from stable to alpha for 1.21.4 in Modpack Update Checker
-feat: ✨ Changed the description of the Modpack Update Checker
+- feat: ✨ Start of development v1.0.9
+- feat: ✨ Migrated all files to v9 of Modpack Update Checker
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - 3D Skin Layers
+  - CraftPresence
+  - Dynamic FPS
+  - Drippy Loading Screen
+  - e4mc
+  - Fabric Language Kotlin
+  - FancyMenu
+  - Modpack Update Checker
+  - Not Enough Animations
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - 3D Skin Layers
+  - CIT Resewn
+  - Cloth Config API
+  - CraftPresence
+  - e4mc
+  - EntityCulling
+  - Fabric Language Kotlin
+  - Modpack Update Checker
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - ShulkerBoxTooltip
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - 3D Skin Layers
+  - Better Statistics Screen (Fabric/Forge)
+  - Cloth Config API
+  - Controlify
+  - CraftPresence
+  - CIT Resewn
+  - Cubes Without Borders
+  - Dynamic FPS
+  - Drippy Loading Screen
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric API
+  - Fabric Language Kotlin
+  - ImmediatelyFast
+  - FancyMenu
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Raised
+  - Resourcify
+  - Seamless
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  - YetAnotherConfigLib
+  - Zoomify
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - Cloth Config API
+  - Controlify
+  - CraftPresence
+  - Cubes Without Borders
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - Entity Texture Features
+  - Fabric API
+  - Fabric Language Kotlin
+  - FancyMenu
+  - Gamma Utils
+  - ImmediatelyFast
+  - Language Reload
+  - Modpack Update Checker
+  - Not Enough Animations
+  - OptiGUI
+  - PaperDoll
+  - Raised
+  - Reese's Sodium Options
+  - Resourcify
+  - ShulkerBoxTooltip
+  - TCDCommons API
+  - UniLib
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  - YetAnotherConfigLib
+  - Zoomify
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - 3D Skin Layers
+  - Architectury API
+  - Better Statistics Screen (Fabric/Forge)
+  - Blur (Fabric)
+  - Chat Patches
+  - Cloth Config API
+  - Controlling
+  - Controlify
+  - Cubes Without Borders
+  - CraftPresence
+  - Dynamic FPS
+  - Entity Model Features [CEM]
+  - EntityCulling
+  - e4mc
+  - Enhanced Block Entities
+  - Entity Texture Features
+  - Fabric API
+  - Fabric Language Kotlin
+  - Fabrishot
+  - FixBookGUI
+  - Gamma Utils
+  - ImmediatelyFast
+  - Indium
+  - Iris Shaders
+  - Lithium
+  - LambDynamicLights
+  - Language Reload
+  - MidnightLib
+  - ModernFix
+  - Mod Menu
+  - Modpack Update Checker
+  - More Culling
+  - Not Enough Animations
+  - No Chat Reports
+  - OptiGUI
+  - Paginated Advancements & Custom Frames
+  - PaperDoll
+  - Polytone
+  - Puzzle
+  - Raised
+  - Reese's Sodium Options
+  - Resourcify
+  - Searchables
+  - ShulkerBoxTooltip
+  - Sodium Extra
+  - Sodium
+  - Symbol Chat
+  - TCDCommons API
+  - UniLib
+  - Very Many Players (Fabric)
+  - Wavey Capes
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - YetAnotherConfigLib
+  - Zoomify
+  ```
+- feat: 🔥 Removed versions 1.20.1 and 1.20.2
+- feat: 🔥 Removed old method of updating via lifemc.json from 1.18.2, 1.19.4, 1.20.4
+- feat: 📦 Added Raised mod to newly supported version 1.21
+- feat: 📦 Reinstated CIT Resewn mod to 1.21
+- feat: 📦 Added the UniLib mod required by recent versions of the CraftPresence mod
+- feat: ⚡ Added View Bobbing Options mod from 1.19.4 and up
+- feat: 🔥 Removed Exordium mod and all its files
+- feat: ✨ Re-added mods LambDynamicLights and CIT Resewn to 1.21
+- feat: ✨ Re-added Dynamic FPS mod to 1.19.4
+- feat: ⚡ Updated the fabric version to 0.16.7
+- feat: ✨ Switch 1.20.6 and 1.21 from Beta to Stable
+- feat: 🔥 Removed AntiGhost mod
+- feat: 🔥 Removed Boat Item View mod
+- feat: ✨ Added TCDCommons API mod for 1.20.4
+- feat: ✨ Added BetterGrassify mod from 1.19.4 and up with config on FAST
+- feat: 🔧 Disabled the FancyMenu welcome screen by default for 1.18.2, 1.20.4, 1.20.6, 1.21
+- feat: ⚡ Replaced MidnightControls mod with Controlify for 1.19.4
+- feat: 🔧 Enabled quiet mode in the Controlify config for 1.19.4, 1.20.4, 1.20.6, 1.21
+- feat: ✨ Starting porting for 1.21.1
+- feat: 🔧 Porting version files for 1.21.1
+- feat: 📦 Updated packages for 1.21.1
+- feat: 🔖 Fabric version upgrade to 0.16.9 for 1.21.1
+- feat: ⬆️ Update fabric version in dependencies to 0.16.9 for 1.21.1
+- feat: ✨ Updating the version number in the options.txt file for 1.21.1
+- feat: ✨ Starting porting for 1.21.3
+- feat: 🔧 Porting version files for 1.21.3
+- feat: ✨ Updating the version number in the options.txt file for 1.21.3
+- feat: ✨ Change Porting from 1.21.3 to 1.21.4 (1.21.3 will be skipped)
+- feat: 🔧 Porting of version files from 1.21.3 to 1.21.4 (1.21.3 will be skipped)
+- feat: ✨ Update version number in options.txt file from 1.21.3 to 1.21.4 (1.21.3 will be skipped)
+- feat: 📦 Updated to v1.0.2 of Translations for LifeMC
+- feat: 📦 Updated packages for 1.21.4
+- feat: 🔖 Fabric version upgrade to 0.16.10 for 1.21.4
+- feat: 🔥 Temporarily removed some mods from 1.21.4
+  ```
+  - Animatica
+  - Blur+
+  - CIT Resewn
+  - FabricSkyboxes
+  - FabricSkyboxes interop
+  - Satin API
+  ```
+- fix: 🐛 The MC-22882 patch for 1.21, 1.21.1, 1.21.4 is enabled by default in Debugify
+- feat: 📦 Re-added the Blur+ mod (v5.0.2, Satin API is no longer required) in 1.21.4
+- feat: 🔨 Improved CLI tools
+- docs: 📝 Changed the date in the CLI tools
+- docs: 📝 Improved .md files
+- feat: 🔥 Removed the CLI tool to update languages, no longer required
+  ```
+  - Languages are now updated and maintained in a separate repository https://github.com/LifeMC-Studios/Translations-for-LifeMC
+  ```
+- fix: 🐛 Fixed command and message issues for CLI Tools
+- fix: 🐛 Fixed resource pack issues in options.txt file in 1.21.4
+- fix: 🐛 Fixed the issue with the selection number in the CLI Tools
+- fix: 🐛 Changed tag from stable to alpha for 1.21.4 in Modpack Update Checker
+- feat: ✨ Changed the description of the Modpack Update Checker
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
 
@@ -243,7 +243,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
-* ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
+### What's Changed
+- ✨ v1.0.9 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/421
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.8...v1.0.9

@@ -2,19 +2,19 @@
 
 🎉🚀 Exciting news! 🚀🎉 We're thrilled to unveil the release of 1.0.1 for our modpack! 🌟 This update brings a lot of fixes and various improvements! 🛠️:
 
-1. 🎨 **Aesthetic Renewal and Menu Enhancement:**
+- 🎨 **Aesthetic Renewal and Menu Enhancement:**
    - Replaced the logo throughout the project.
    - Updated all language files.
    - Updated all language files
    - Updated icons with new logo and removed logo from pause menu and settings menu.
-2. 🔄 **Fabric Update:** Updated Fabric version to 0.15.3.
-3. ☕ **Donation Update:** Replaced donation support via Ko-fi with the Patreon link.
-4. 🛠️ **Modpack Migration:** Migrated the modpack to version 1.20.2.
-5. 🖥️ **CLI Improvements:** Updated and improved CLI programs.
-6. 📦 **Package Updates:**
+- 🔄 **Fabric Update:** Updated Fabric version to 0.15.3.
+- ☕ **Donation Update:** Replaced donation support via Ko-fi with the Patreon link.
+- 🛠️ **Modpack Migration:** Migrated the modpack to version 1.20.2.
+- 🖥️ **CLI Improvements:** Updated and improved CLI programs.
+- 📦 **Package Updates:**
    - **1.18.2:**
      - Mod Updates:
-```
+       ```
        - 3D Skin Layers
        - Cosmetica
        - Dynamic FPS
@@ -43,11 +43,11 @@
        - Alacrity
        - FancyMenu
        - Konkrete
-```
+       ```
 
    - **1.19.4:**
      - Mod Updates:
-```
+       ```
        - 3D Skin Layers
        - Cosmetica
        - Dynamic FPS
@@ -82,133 +82,133 @@
        - ImmediatelyFast
        - Cloth Config API
        - Rethinking Voxels
-```
-       
+       ```
+
    - **1.20.1:**
      - Mod Updates:
-```
-        - 3D Skin Layers
-        - Cosmetica
-        - Dynamic FPS
-        - Entity Texture Features
-        - Fabric API
-        - Fabric Language Kotlin
-        - Iris Shaders
-        - ModernFix
-        - OptiGUI
-        - Raised
-        - Seamless
-        - ShulkerBoxTooltip
-        - Simple Discord RPC
-        - Dramatic Skys
-        - Faithful 32x
-        - Pixlli 128x
-        - rotrBLOCKS 128/256x
-        - BSL Shaders
-        - Complementary Reimagined
-        - Complementary Shaders v4
-        - Shrimple
-        - Solas Shader
-        - Super Duper Vanilla
-        - Memory Leak Fix
-        - Not Enough Animations
-        - Alacrity
-        - FancyMenu
-        - Konkrete
-        - Continuity
-        - Entity Model Features [CEM]
-        - Language Reload
-        - ImmediatelyFast
-        - Cloth Config API
-        - Rethinking Voxels
-        - Audio Extension for FancyMenu
-        - Better Statistics Screen (Fabric/Forge)
-        - Drippy Loading Screen
-        - EntityCulling
-        - FabricSkyBoxes Interop
-        - FabricSkyboxes
-        - Fabrishot
-        - FerriteCore
-        - Indium
-        - Searchables
-        - Sodium
-        - ThreadTweak
-        - Visuality
-        - Very Many Players (Fabric)
-        - YetAnotherConfigLib
-        - CraterLib
-        - More Culling
-```
+       ```
+       - 3D Skin Layers
+       - Cosmetica
+       - Dynamic FPS
+       - Entity Texture Features
+       - Fabric API
+       - Fabric Language Kotlin
+       - Iris Shaders
+       - ModernFix
+       - OptiGUI
+       - Raised
+       - Seamless
+       - ShulkerBoxTooltip
+       - Simple Discord RPC
+       - Dramatic Skys
+       - Faithful 32x
+       - Pixlli 128x
+       - rotrBLOCKS 128/256x
+       - BSL Shaders
+       - Complementary Reimagined
+       - Complementary Shaders v4
+       - Shrimple
+       - Solas Shader
+       - Super Duper Vanilla
+       - Memory Leak Fix
+       - Not Enough Animations
+       - Alacrity
+       - FancyMenu
+       - Konkrete
+       - Continuity
+       - Entity Model Features [CEM]
+       - Language Reload
+       - ImmediatelyFast
+       - Cloth Config API
+       - Rethinking Voxels
+       - Audio Extension for FancyMenu
+       - Better Statistics Screen (Fabric/Forge)
+       - Drippy Loading Screen
+       - EntityCulling
+       - FabricSkyBoxes Interop
+       - FabricSkyboxes
+       - Fabrishot
+       - FerriteCore
+       - Indium
+       - Searchables
+       - Sodium
+       - ThreadTweak
+       - Visuality
+       - Very Many Players (Fabric)
+       - YetAnotherConfigLib
+       - CraterLib
+       - More Culling
+       ```
 
    - **1.20.2:**
      - Mod Updates:
-```
-        - 3D Skin Layers
-        - Cosmetica
-        - Chat Patches
-        - Dynamic FPS
-        - Entity Texture Features
-        - Fabric API
-        - Fabric Language Kotlin
-        - Iris Shaders
-        - ModernFix
-        - OptiGUI
-        - Raised
-        - Seamless
-        - ShulkerBoxTooltip
-        - Simple Discord RPC
-        - Dramatic Skys
-        - Faithful 32x
-        - Pixlli 128x
-        - rotrBLOCKS 128/256x
-        - BSL Shaders
-        - Complementary Reimagined
-        - Complementary Shaders v4
-        - Shrimple
-        - Solas Shader
-        - Super Duper Vanilla
-        - Memory Leak Fix
-        - Not Enough Animations
-        - Alacrity
-        - FancyMenu
-        - Konkrete
-        - Continuity
-        - Entity Model Features [CEM]
-        - Language Reload
-        - ImmediatelyFast
-        - Cloth Config API
-        - Rethinking Voxels
-        - Audio Extension for FancyMenu
-        - Better Statistics Screen (Fabric/Forge)
-        - Drippy Loading Screen
-        - EntityCulling
-        - FabricSkyBoxes Interop
-        - FabricSkyboxes
-        - Fabrishot
-        - FerriteCore
-        - Indium
-        - Searchables
-        - Sodium
-        - ThreadTweak
-        - Visuality
-        - Very Many Players (Fabric)
-        - YetAnotherConfigLib
-        - CraterLib
-        - More Culling
-```
+       ```
+       - 3D Skin Layers
+       - Cosmetica
+       - Chat Patches
+       - Dynamic FPS
+       - Entity Texture Features
+       - Fabric API
+       - Fabric Language Kotlin
+       - Iris Shaders
+       - ModernFix
+       - OptiGUI
+       - Raised
+       - Seamless
+       - ShulkerBoxTooltip
+       - Simple Discord RPC
+       - Dramatic Skys
+       - Faithful 32x
+       - Pixlli 128x
+       - rotrBLOCKS 128/256x
+       - BSL Shaders
+       - Complementary Reimagined
+       - Complementary Shaders v4
+       - Shrimple
+       - Solas Shader
+       - Super Duper Vanilla
+       - Memory Leak Fix
+       - Not Enough Animations
+       - Alacrity
+       - FancyMenu
+       - Konkrete
+       - Continuity
+       - Entity Model Features [CEM]
+       - Language Reload
+       - ImmediatelyFast
+       - Cloth Config API
+       - Rethinking Voxels
+       - Audio Extension for FancyMenu
+       - Better Statistics Screen (Fabric/Forge)
+       - Drippy Loading Screen
+       - EntityCulling
+       - FabricSkyBoxes Interop
+       - FabricSkyboxes
+       - Fabrishot
+       - FerriteCore
+       - Indium
+       - Searchables
+       - Sodium
+       - ThreadTweak
+       - Visuality
+       - Very Many Players (Fabric)
+       - YetAnotherConfigLib
+       - CraterLib
+       - More Culling
+       ```
 
-7. 🎨 **Aesthetics Upgrade:** Updated the logo and spiced up the README.md.
-8. ❌ **Removed Mods:**
+- 🎨 **Aesthetics Upgrade:** Updated the logo and spiced up the README.md.
+- ❌ **Removed Mods:**
    - Better Name Visibility
    - ClearDespawn
    - Bobby
    - AdvancementInfo
    - GraphUtil
    - Memory Leak Fix
-9. 🗺️ **Language updates**
+- 🗺️ **Language updates**
    - Add Italian
-   - Add Ukrainian   
-10. ➕ **New Addition:** 
+   - Add Ukrainian
+- ➕ **New Addition:**
    - Added the Paginated Advancements & Custom Frames mod.
    - Added the Resourcify mod.
    - Updated the modpack version to 1.0.1.
@@ -230,8 +230,8 @@
    - Removed bug fixes resolved in 1.20.2.
    - Removed Patreon from FUNDING.yml.
    - Added MasterMC5801 to the auto_assign.yml file.
-11. 🔄 **FOV Adjustment:** Changed the field of view (fov) from Quake Pro to Normal.
-12. ⚙️ **Configuration Addition:** Added configuration for the Paginated Advancements & Custom Frames mod.
+- 🔄 **FOV Adjustment:** Changed the field of view (fov) from Quake Pro to Normal.
+- ⚙️ **Configuration Addition:** Added configuration for the Paginated Advancements & Custom Frames mod.
 
 We're thrilled about these changes and hope they elevate the overall experience of our project. 🚀 Please take a moment to review the modifications and share your feedback or suggestions.
 
@@ -240,8 +240,8 @@ A big thank you to all contributors! 🙌
 Best regards,
 LifeMC Studios team
 
-## What's Changed
-* Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
-* build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
+### What's Changed
+- Major updates and bug fixes 2024 part2 by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/305
+- build(deps): bump crowdin/github-action from 1.16.0 to 1.19.0 by @dependabot in https://github.com/LifeMC-Studios/LifeMC/pull/303
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.0...v1.0.1

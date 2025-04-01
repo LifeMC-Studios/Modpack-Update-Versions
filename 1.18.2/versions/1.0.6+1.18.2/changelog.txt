@@ -2,78 +2,78 @@
 
 Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
 
-1. fix: 🔥 Removed the name Nukecraft5419 accidentally happened in the Fancymenu files
-2. feat: 🔥 Removed BoatHud mod causes problems with HUD and is obsolete
-3. feat: ✨ Menu overhaul with lighter Penpot texture design: increased flexibility, usability, and performance
-4. feat: 🔥 Stopped development support for 1.20.1 and 1.20.2
-5. ci: 🚀 Stopped development support for 1.20.1 and 1.20.2 for CLI tool
-6. feat: ✨ Added Polytone mod for 1.18.2 and 1.20.4 for optifine color features and other features for resource packs
-7. feat: ⚡ Migration from Borderless Mining mod to Cubes Without Borders mod for 1.19.4 and 1.20.4, for 1.18.2 in future.
-8. feat: 📦 **Package Updates:**
+- fix: 🔥 Removed the name Nukecraft5419 accidentally happened in the Fancymenu files
+- feat: 🔥 Removed BoatHud mod causes problems with HUD and is obsolete
+- feat: ✨ Menu overhaul with lighter Penpot texture design: increased flexibility, usability, and performance
+- feat: 🔥 Stopped development support for 1.20.1 and 1.20.2
+- ci: 🚀 Stopped development support for 1.20.1 and 1.20.2 for CLI tool
+- feat: ✨ Added Polytone mod for 1.18.2 and 1.20.4 for optifine color features and other features for resource packs
+- feat: ⚡ Migration from Borderless Mining mod to Cubes Without Borders mod for 1.19.4 and 1.20.4, for 1.18.2 in future.
+- feat: 📦 **Package Updates:**
    - **1.18.2:**
      - Mod Updates:
-```
-- 3D Skin Layers
-- Cosmetica
-- Dynamic FPS
-- Entity Texture Features
-- FancyMenu
-- ModernFix
-- Not Enough Animations
-- Resourcify
-- Wavey Capes
-```
+       ```
+       - 3D Skin Layers
+       - Cosmetica
+       - Dynamic FPS
+       - Entity Texture Features
+       - FancyMenu
+       - ModernFix
+       - Not Enough Animations
+       - Resourcify
+       - Wavey Capes
+       ```
 
    - **1.19.4:**
      - Mod Updates:
-```
-- 3D Skin Layers
-- Cosmetica
-- Entity Model Features [CEM]
-- Entity Texture Features
-- Not Enough Animations
-- Resourcify
-- Wavey Capes
-```
+       ```
+       - 3D Skin Layers
+       - Cosmetica
+       - Entity Model Features [CEM]
+       - Entity Texture Features
+       - Not Enough Animations
+       - Resourcify
+       - Wavey Capes
+       ```
 
    - **1.20.4:**
      - Mod Updates:
-```
-- 3D Skin Layers
-- Better Statistics Screen (Fabric/Forge)
-- Controlify
-- Controlling
-- Cosmetica
-- Dynamic FPS
-- Entity Model Features [CEM]
-- Entity Texture Features
-- Fabric API
-- FancyMenu
-- ImmediatelyFast
-- Iris Shaders
-- ModernFix
-- Mod Menu
-- More Culling
-- No Chat Reports
-- Not Enough Animations
-- OptiGUI
-- Resourcify
-- Symbol Chat
-- Wavey Capes
-- YetAnotherConfigLib
-```
+       ```
+       - 3D Skin Layers
+       - Better Statistics Screen (Fabric/Forge)
+       - Controlify
+       - Controlling
+       - Cosmetica
+       - Dynamic FPS
+       - Entity Model Features [CEM]
+       - Entity Texture Features
+       - Fabric API
+       - FancyMenu
+       - ImmediatelyFast
+       - Iris Shaders
+       - ModernFix
+       - Mod Menu
+       - More Culling
+       - No Chat Reports
+       - Not Enough Animations
+       - OptiGUI
+       - Resourcify
+       - Symbol Chat
+       - Wavey Capes
+       - YetAnotherConfigLib
+       ```
 
-9. fix: ⚡ Remigrated to the Borderless Mining mod for 1.19.4, the Cubes Without Borders mod does not work in 1.19.4
-10. fix: 🐛 Fixed small theme bug in 1.19.4
-11. feat: ✨ Updated the version of Fabric and the required version
-12. feat: ✨ Migrated version control to Modpack Update Checker mod
-13. fix: 🐛 Removed the name Nukecraft5419 happened by mistake during the menu export
-14. fix: 🐛 Fixed the problem of toltip not being removed in 1.19.4
-15. feat: 🔥 Removed the Shaders Arc now never abandoned
-16. feat: 🔥 Removed all Shaders Packs and Resource Packs included in the modpack and put them only as recommended so as to lighten the modpack, dashes for Reimagined GUI
-17. feat: 🌐 Removed translations no longer used
-18. fix: 🐛 Fixed problem with loading Resource Packs in the options.txt file.
-20. feat: ✨ v1.0.6
+- fix: ⚡ Remigrated to the Borderless Mining mod for 1.19.4, the Cubes Without Borders mod does not work in 1.19.4
+- fix: 🐛 Fixed small theme bug in 1.19.4
+- feat: ✨ Updated the version of Fabric and the required version
+- feat: ✨ Migrated version control to Modpack Update Checker mod
+- fix: 🐛 Removed the name Nukecraft5419 happened by mistake during the menu export
+- fix: 🐛 Fixed the problem of toltip not being removed in 1.19.4
+- feat: 🔥 Removed the Shaders Arc now never abandoned
+- feat: 🔥 Removed all Shaders Packs and Resource Packs included in the modpack and put them only as recommended so as to lighten the modpack, dashes for Reimagined GUI
+- feat: 🌐 Removed translations no longer used
+- fix: 🐛 Fixed problem with loading Resource Packs in the options.txt file.
+- feat: ✨ v1.0.6
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
 
@@ -82,7 +82,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
-* ✨ v1.0.6 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/357
+### What's Changed
+- ✨ v1.0.6 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/357
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.5...v1.0.6

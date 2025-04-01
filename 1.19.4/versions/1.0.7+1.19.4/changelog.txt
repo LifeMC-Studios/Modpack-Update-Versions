@@ -2,91 +2,91 @@
 
 Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
 
-1. feat: ✨ Beginning development v1.0.7 (including 1.20.6)
-2. chore: 🎨 Improved the bug_report.yml
-   - Removed PolyMC and added LifeMC Launcher, GDLauncher and improved the layout in the Launcher options
-3. feat: 🔥 Removed GitLens from the recommended extensions on vscode and replace it with Git Graph
-4. feat: 🔥 Removed auto-saving of files when changing windows in vscode to avoid problems
-5. feat: ✨ Updated the version of Fabric and the required version to 0.15.11
-6. feat: 📦 **Package Updates:**
+- feat: ✨ Beginning development v1.0.7 (including 1.20.6)
+- chore: 🎨 Improved the bug_report.yml
+  - Removed PolyMC and added LifeMC Launcher, GDLauncher and improved the layout in the Launcher options
+- feat: 🔥 Removed GitLens from the recommended extensions on vscode and replace it with Git Graph
+- feat: 🔥 Removed auto-saving of files when changing windows in vscode to avoid problems
+- feat: ✨ Updated the version of Fabric and the required version to 0.15.11
+- feat: 📦 **Package Updates:**
    - **1.18.2:**
      - Mod Updates:
-```
-- 3D Skin Layers
-- Entity Texture Features
-- Fabric Language Kotlin
-- FancyMenu
-- Not Enough Animations
-- Resourcify
-- Wavey Capes
-- Reimagined GUI (Dark)
-- Reimagined GUI (Light)
-```
+       ```
+       - 3D Skin Layers
+       - Entity Texture Features
+       - Fabric Language Kotlin
+       - FancyMenu
+       - Not Enough Animations
+       - Resourcify
+       - Wavey Capes
+       - Reimagined GUI (Dark)
+       - Reimagined GUI (Light)
+       ```
 
    - **1.19.4:**
      - Mod Updates:
-```
-- 3D Skin Layers
-- Continuity
-- Entity Model Features [CEM]
-- Fabric Language Kotlin
-- Language Reload
-- Not Enough Animations
-- Resourcify
-- ShulkerBoxTooltip
-- Wavey Capes
-- Reimagined GUI (Dark)
-- Reimagined GUI (Light)
-```
+       ```
+       - 3D Skin Layers
+       - Continuity
+       - Entity Model Features [CEM]
+       - Fabric Language Kotlin
+       - Language Reload
+       - Not Enough Animations
+       - Resourcify
+       - ShulkerBoxTooltip
+       - Wavey Capes
+       - Reimagined GUI (Dark)
+       - Reimagined GUI (Light)
+       ```
 
    - **1.20.4:**
      - Mod Updates:
-```
-- 3D Skin Layers
-- Chat Patches
-- Continuity
-- Entity Model Features [CEM]
-- Fabric Language Kotlin
-- FancyMenu
-- ImmediatelyFast
-- Language Reload
-- No Chat Reports
-- Not Enough Animations
-- Polytone
-- Resourcify
-- Screenshot Viewer
-- ShulkerBoxTooltip
-- Wavey Capes
-- YetAnotherConfigLib
-- Zoomify
-- Reimagined GUI (Dark)
-- Reimagined GUI (Light)
-```
+       ```
+       - 3D Skin Layers
+       - Chat Patches
+       - Continuity
+       - Entity Model Features [CEM]
+       - Fabric Language Kotlin
+       - FancyMenu
+       - ImmediatelyFast
+       - Language Reload
+       - No Chat Reports
+       - Not Enough Animations
+       - Polytone
+       - Resourcify
+       - Screenshot Viewer
+       - ShulkerBoxTooltip
+       - Wavey Capes
+       - YetAnotherConfigLib
+       - Zoomify
+       - Reimagined GUI (Dark)
+       - Reimagined GUI (Light)
+       ```
 
-7. fix: 🐛 fixed the problem of resource packs in the options.txt file of 1.20.4
-8. feat: ✨ Start of development of v1.0.7+1.20.6-alpha.1
-9. feat: ✨ Updated the tag and version of packwiz for v1.0.7+1.20.6-alpha.1
-10. feat: 🔥 Removed lifemc.json file from 1.20.6 that will not be used
-11. feat: ✨ Updated fabric_loader_dependencies.json for v1.0.7+1.20.6-alpha.1
-12. feat: ✨ Updated Modpack Update Checker for v1.0.7+1.20.6-alpha.1
-13. feat: 📦 Updated all initial packages for development 1.20.6
-14. feat: 🔥 Removed the mod Mod Detection Preventer considered unsustainable by the developer himself
-15. feat: 🔥 Removed mod Map Compass has not been updated for 9 months
-16. feat: ✨ Lengthen the version tag in all menus
-17. fix: 🐛 Fixed the version tag bug in the loading screen
-18. feat: ✨ Improved the list of included servers
-19. feat: 🔥 Transferred the crowdin-sync bot to the repository Translations for LifeMC
-20. feat: ✨ Switched from the LoadMyResources mod to the Translations for LifeMC pack.
-21. feat: ✨ Updated the Data version of 1.20.6
-22. feat: 🔥 Temporarily removed some mods from 1.20.6
-```
-- CIT Resewn
-- Enhanced Block Entities
-- Exordium
-- LambDynamicLights
-- Raised
-- Simple Discord RPC
-```
+- fix: 🐛 fixed the problem of resource packs in the options.txt file of 1.20.4
+- feat: ✨ Start of development of v1.0.7+1.20.6-alpha.1
+- feat: ✨ Updated the tag and version of packwiz for v1.0.7+1.20.6-alpha.1
+- feat: 🔥 Removed lifemc.json file from 1.20.6 that will not be used
+- feat: ✨ Updated fabric_loader_dependencies.json for v1.0.7+1.20.6-alpha.1
+- feat: ✨ Updated Modpack Update Checker for v1.0.7+1.20.6-alpha.1
+- feat: 📦 Updated all initial packages for development 1.20.6
+- feat: 🔥 Removed the mod Mod Detection Preventer considered unsustainable by the developer himself
+- feat: 🔥 Removed mod Map Compass has not been updated for 9 months
+- feat: ✨ Lengthen the version tag in all menus
+- fix: 🐛 Fixed the version tag bug in the loading screen
+- feat: ✨ Improved the list of included servers
+- feat: 🔥 Transferred the crowdin-sync bot to the repository Translations for LifeMC
+- feat: ✨ Switched from the LoadMyResources mod to the Translations for LifeMC pack.
+- feat: ✨ Updated the Data version of 1.20.6
+- feat: 🔥 Temporarily removed some mods from 1.20.6
+  ```
+  - CIT Resewn
+  - Enhanced Block Entities
+  - Exordium
+  - LambDynamicLights
+  - Raised
+  - Simple Discord RPC
+  ```
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
 
@@ -95,8 +95,8 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
-* New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
-* ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
+### What's Changed
+- New Crowdin translations by @github-actions in https://github.com/LifeMC-Studios/LifeMC/pull/358
+- ✨ v1.0.7 is out! by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/371
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.6...v1.0.7

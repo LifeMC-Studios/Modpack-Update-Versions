@@ -2,58 +2,58 @@
 
 Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
 
-1. fix: 🐛 Fixed startup bug of 1.20.4
-2. feat: ✨ Added the Panorama in the main menu and settings according to the theme
-3. [perf: 🔥 Temporarily remove Dynamic FPS and ImmediatelyFast mods for 1.19.4 cause boot problems
-4. feat: 📦 **Package Updates:**
+- fix: 🐛 Fixed startup bug of 1.20.4
+- feat: ✨ Added the Panorama in the main menu and settings according to the theme
+- perf: 🔥 Temporarily remove Dynamic FPS and ImmediatelyFast mods for 1.19.4 cause boot problems
+- feat: 📦 **Package Updates:**
    - **1.18.2:**
      - Mod Updates:
-```
-- Cosmetica
-```
+       ```
+       - Cosmetica
+       ```
 
    - **1.19.4:**
      - Mod Updates:
-```
-- CIT Resewn
-- Cosmetica
-```
-       
+       ```
+       - CIT Resewn
+       - Cosmetica
+       ```
+
    - **1.20.1:**
      - Mod Updates:
-```
-- Better Statistics Screen (Fabric/Forge)
-- CIT Resewn
-- Controlify
-- Cosmetica
-- ImmediatelyFast
-- Rethinking Voxels
-```
+       ```
+       - Better Statistics Screen (Fabric/Forge)
+       - CIT Resewn
+       - Controlify
+       - Cosmetica
+       - ImmediatelyFast
+       - Rethinking Voxels
+       ```
 
    - **1.20.2:**
      - Mod Updates:
-```
-- Better Statistics Screen (Fabric/Forge)
-- Cosmetica
-- ImmediatelyFast
-- Zoomify
-- Rethinking Voxels
-```
+       ```
+       - Better Statistics Screen (Fabric/Forge)
+       - Cosmetica
+       - ImmediatelyFast
+       - Zoomify
+       - Rethinking Voxels
+       ```
 
    - **1.20.4:**
      - Mod Updates:
-```
-- Better Statistics Screen (Fabric/Forge)
-- CIT Resewn
-- Controlify
-- Debugify
-- Visuality
-- Very Many Players (Fabric)
-- Rethinking Voxels
-```
+       ```
+       - Better Statistics Screen (Fabric/Forge)
+       - CIT Resewn
+       - Controlify
+       - Debugify
+       - Visuality
+       - Very Many Players (Fabric)
+       - Rethinking Voxels
+       ```
 
-8. fix: 🐛 Fixed bug of loading some default resource packs
-11. feat: ✨ v1.0.5 is out!
+- fix: 🐛 Fixed bug of loading some default resource packs
+- feat: ✨ v1.0.5 is out!
 
 We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
 
@@ -62,8 +62,7 @@ A big thank you to all contributors! 🙌
 Sincerely,
 The team at LifeMC Studios
 
-## What's Changed
-* ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
-
+### What's Changed
+- ✨ v1.0.5 is out!  by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/337
 
 **Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.4...v1.0.5
