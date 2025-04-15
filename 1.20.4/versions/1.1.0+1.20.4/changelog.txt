@@ -1,0 +1,31 @@
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 📦 Re-added FastQuit mod to versions 1.21, 1.21.1, 1.21.4
+- feat: 📦 Re-added Screenshot Viewer mod for versions: 1.21, 1.21.1, 1.21.4
+- feat: ✨ Changed 1.21.4 from beta to stable
+- feat: 🔧 Changed version tag to Modpack Update Checker
+- feat: 📦 Re-added the ThreadTweak mod for versions: 1.21, 1.21.1, 1.21.4
+- refactor: 🎨 Updated the logo is the resource path
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the SECURITY.md
+- docs: 📝 Updated the README.md
+- docs: 📝 Updated the CONTRIBUTING.md
+- refactor: 🔧 Updated discord link in menus
+- feat: 📦 Updated the Translations for LifeMC package
+- docs: 📝 Updated the CODE_OF_CONDUCT.md
+- docs: 📝 Re-updated the SECURITY.md
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- docs: 📝 Updated the files README.md is CHANGELOG.md by @Nukecraft5419 in https://github.com/LifeMC-Studios/LifeMC/pull/443
+- ✨ v1.1.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/457
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.0.11...v1.1.0
