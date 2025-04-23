@@ -1,0 +1,107 @@
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- docs: 📝 Updated the SECURITY.md
+- feat: 🔧 Updated the modpack version tag in packwiz
+- feat: 🔧 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔧 Updated the modpack version tag in Modpack Update Checker
+- feat: 🔧 Updated fabric version to 0.16.14 in the packwiz
+- feat: 🔧 Updated fabric version to 0.16.14 in fabric_loader_dependencies.json
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Controlify
+  - Dynamic FPS
+  - e4mc
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Blur (Fabric)
+  - Dynamic FPS
+  - e4mc
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Blur (Fabric)
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - Fabric API
+  - FancyMenu
+  - LambDynamicLights
+  - UniLib
+  - Very Many Players (Fabric)
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Controlify
+  - Drippy Loading Screen
+  - Dynamic FPS
+  - e4mc
+  - FancyMenu
+  - LambDynamicLights
+  - Lithium
+  - MidnightLib
+  - Polytone
+  - ThreadTweak
+  - UniLib
+  - Reimagined GUI (Dark)
+  - Reimagined GUI (Light)
+  - Translations for LifeMC
+  ```
+- fix: 🐛 Fixed text problem in FancyMenu for versions 1.21.1 is 1.21.4
+- fix: 🐛 Fixed text alignment in FancyMenu startup screen for versions 1.18.2, 1.21.1 is 1.21.4
+- docs: 📝 Updated the README.md
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.1.1 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/469
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.0...v1.1.1
