@@ -1,3 +1,5 @@
+# **Java 21 required**
+
 👋 Hello everyone,
 
 Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
