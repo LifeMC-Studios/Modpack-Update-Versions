@@ -1,0 +1,90 @@
+👋 Hello everyone,
+
+Here's the latest news! 🚀 This update introduces many significant improvements and updates to our project. The following are the highlights:
+
+- feat: 🔖 Updated the modpack version tag in packwiz
+- feat: 🔖 Updated the modpack version tag in fabric_loader_dependencies.json
+- feat: 🔖 Updated the modpack version tag in Modpack Update Checker
+- feat: 📦 Added Cherished Worlds mod
+- feat: ✨ Improved CraftPresence config
+- refactor: ⚡ Decreased the weight of dark buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of light buttons in global assets with pngquant
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.18.2
+- refactor: ⚡ Decreased the weight of dark buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light buttons in resources with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.19.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.4
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.20.6
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.1
+- refactor: ⚡ Decreased the weight of dark buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light buttons in assets with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of dark panorama in panoramas with pngquant in 1.21.4
+- refactor: ⚡ Decreased the weight of light panorama in panoramas with pngquant in 1.21.4
+- feat: 📦 Updated packages for 1.18.2
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.19.4
+  ```
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.20.6
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21
+  ```
+  - Chat Patches
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.1
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Updated packages for 1.21.4
+  ```
+  - Chat Patches
+  - Controlify
+  - CraftPresence
+  ```
+- feat: 📦 Added AppleSkin mod
+- ci: 👷 Updated Bug Report
+
+We are excited about these changes and hope that they will improve the experience of our project overall. 🚀 Please take a moment to review the changes and share your feedback or suggestions.
+
+A big thank you to all contributors! 🙌
+
+Sincerely,
+The team at LifeMC Studios
+
+### What's Changed
+- ✨ v1.2.0 is out! by @Nukecraft5419 and @MasterMC5801 in https://github.com/LifeMC-Studios/LifeMC/pull/474
+
+**Full Changelog**: https://github.com/LifeMC-Studios/LifeMC/compare/v1.1.1...v1.2.0
