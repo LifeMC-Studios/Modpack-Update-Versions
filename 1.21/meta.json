@@ -73,6 +73,15 @@
           "modrinth": "https://modrinth.com/modpack/lifemc/version/1.2.1+1.21"
         }
       }
+    },
+    {
+      "id": "2.0.0+1.21",
+      "releasedAt": 1751506337081,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/lifemc/version/2.0.0+1.21"
+        }
+      }
     }
   ]
 }
