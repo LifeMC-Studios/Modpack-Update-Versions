@@ -1,4 +1,4 @@
-# **Java 21 required for 1.20.4**
+# **Java 21 required**
 ## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
 ### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
