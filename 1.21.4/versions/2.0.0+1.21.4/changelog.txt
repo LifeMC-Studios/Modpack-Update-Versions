@@ -1,7 +1,7 @@
-## To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
+### To avoid incompatibility problems with v2.0.0 before updating follow the steps below:
 
-### 1. Delete the modpack-update-checker folder in “config/yosbr/config/”
-### 2. Update the modpack
+1. Delete the modpack-update-checker folder in “config/yosbr/config/”
+2. Update the modpack
 
 👋 Hello everyone,
 
